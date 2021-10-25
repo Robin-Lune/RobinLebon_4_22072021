@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+    /* outline: none!important; */
 }
 
 a:hover {
@@ -752,8 +752,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-  height: 270px;
-   width: 270px;
+    height: 100%;
+    width: 100%;
 }
 
 .portfolio-row {
